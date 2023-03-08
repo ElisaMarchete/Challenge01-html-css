@@ -83,7 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #227BAA;  /* Changed background from #2589bd to #227BAA color to fix the Contrast Errors */
 }
 
 .benefit-lead, .benefit-brand, .benefit-cost {
@@ -201,6 +201,7 @@ p {
     text-align: center;
 }
 
-.footer h3 {
+/* Changed from h2 to h4 */
+.footer h4 {
     font-size: 20px;
 }
