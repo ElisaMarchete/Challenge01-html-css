@@ -12,6 +12,6 @@ HTML semantic elements, HTML accessibility, and CSS DRY grouping selectors were 
 ## Table of Contents
 
  - Installation: No installation required
- - Credits: Instuctor Daler Singh amd Assistant Instructor Adam
+ - Credits: Instuctor Daler Singh and Assistant Instructor Adam
  - License: MIT
 
