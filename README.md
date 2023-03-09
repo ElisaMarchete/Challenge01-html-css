@@ -17,7 +17,7 @@ HTML semantic elements, HTML accessibility, and CSS DRY grouping selectors were 
 
 <br/>
 
-### Screenshot and link for the deployed application
+### Screenshot and link to the deployed application
 
 ![Screenshot of deployed application](/assets/screenshot/screenshot.png)
 
